@@ -1,2 +1,2 @@
-# Intership-home-work-1
-Home work task
+# Node.js Intership-home-work-1
+Yehor Damchuk home work tasks
